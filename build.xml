@@ -1,5 +1,7 @@
 <project name="flipkart" default="compile" basedir=".">
 	<target name="compile">
 		<ehco message="hi this si kishore"/>
+		<ehco message="hi this si kishore"/>
+
 	</target>
 </project>
